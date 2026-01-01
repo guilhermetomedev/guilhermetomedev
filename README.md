@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Guilherme!
 
 🚀 Desenvolvedor apaixonado por tecnologia e inovação  
-💻 Trabalho com **JavaScript | Python | Node.js | React**  
+💻 Trabalho com **JavaScript | Css** | Html**  
 📚 Sempre aprendendo algo novo e compartilhando conhecimento
 
 ---
