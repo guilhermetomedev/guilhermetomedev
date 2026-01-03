@@ -1,14 +1,35 @@
-# 👋 Olá, eu sou o Guilherme!
+# 🚀 Guilherme | Desenvolvedor Front-End
 
-🚀 Desenvolvedor apaixonado por tecnologia e inovação  
-💻 Trabalho com **JavaScript | Css** | Html**  
-📚 Sempre aprendendo algo novo e compartilhando conhecimento
+💻 **Apaixonado por tecnologia e inovação**  
+Atualmente focado em **Front-End**, aprimorando habilidades e explorando novas formas de criar experiências digitais.  
+Objetivo: **aprender mais sobre desenvolvimento web** e evoluir constantemente.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Tools-Git-orange?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 
 ---
+
+## 📚 Em constante aprendizado
+- Focando em **JavaScript**  
+- Revisando e praticando projetos com **HTML & CSS**  
+- Explorando novas ferramentas e boas práticas de desenvolvimento web  
+
+---
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@exemplo.com)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
