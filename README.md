@@ -1,8 +1,7 @@
 # 🚀 Guilherme | Desenvolvedor Front-End
 
-💻 **Apaixonado por tecnologia e inovação**  
-Atualmente focado em **Front-End**, aprimorando habilidades e explorando novas formas de criar experiências digitais.  
-Objetivo: **aprender mais sobre desenvolvimento web** e evoluir constantemente.
+💻 **Entusiasta de tecnologia e inovação**, dedicado ao desenvolvimento Front-End e à criação de experiências digitais envolventes.
+Sempre em busca de evolução, meu objetivo é **aprimorar conhecimentos em desenvolvimento web** e **transformar ideias em soluções criativas e funcionais**.
 
 ---
 
